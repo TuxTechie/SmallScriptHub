@@ -10,6 +10,7 @@ A simple yet powerful Password Generator that creates strong, secure passwords t
 ## Requirements
 - Unix-like operating system (Linux, macOS, etc.)
 - Bash
+- Zenity: GUI dialog tool.
 
 ## Usage
 1. Clone the repository:
@@ -17,6 +18,11 @@ A simple yet powerful Password Generator that creates strong, secure passwords t
     git clone https://github.com/TuxTechie/Password-Manager.git
     cd Password-Manager
     ```
+2. Install zenity:
+   ```sh
+   sudo apt-get update
+   sudo apt-get install zenity
+   ```
 2. Make the script executable:
     ```sh
     chmod +x password_generator.sh
