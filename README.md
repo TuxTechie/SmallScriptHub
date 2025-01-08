@@ -27,7 +27,6 @@ A simple yet powerful Password Generator that creates strong, secure passwords t
     ```
 
 ## Example
-Password Generator <br>
 1.Generate Small Password (8 characters) <br>
 2.Generate Large Password (16 characters) <br>
 3.Generate Complex Password (24 characters) <br>
