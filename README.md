@@ -27,11 +27,11 @@ A simple yet powerful Password Generator that creates strong, secure passwords t
     ```
 
 ## Example
-Password Generator
-1.Generate Small Password (8 characters)
-2.Generate Large Password (16 characters)
-3.Generate Complex Password (24 characters)
-Choose an option: 2
+Password Generator <br>
+1.Generate Small Password (8 characters) <br>
+2.Generate Large Password (16 characters) <br>
+3.Generate Complex Password (24 characters) <br>
+Choose an option: 2 <br>
 Generated Large Password: A1b2C3d4E5f6G7h8
 
 ## License
