@@ -40,4 +40,4 @@ Choose an option: 2 <br>
 Generated Large Password: A1b2C3d4E5f6G7h8
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the GPL v3.0 License.
