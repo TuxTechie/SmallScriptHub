@@ -1,6 +1,6 @@
-# Password Generator
+# Password Manager
 
-A simple yet powerful Password Generator that creates strong, secure passwords to ensure your online accounts remain protected. This application generates passwords with varying lengths and complexities to suit different security needs and stores the credentials with clear labels for better management.
+A simple yet powerful Password Manager that generates and securely stores strong passwords to ensure your online accounts remain protected. This application not only creates passwords of varying lengths and complexities to suit different security needs but also organizes and labels the stored credentials for better management and retrieval.
 
 ## Features
 - Generate Small Password (8 characters)
@@ -19,24 +19,24 @@ A simple yet powerful Password Generator that creates strong, secure passwords t
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/TuxTechie/Password-Manager.git
-    cd Password-Manager
+    git clone https://github.com/TuxTechie/password-manager.git
+    cd password-manager
     ```
 2. Make the script executable:
     ```sh
-    chmod +x password_generator.sh
+    chmod +x password_manager.sh
     ```
 3. Run the script:
     ```sh
-    ./password_generator.sh
+    ./password_manager.sh
     ```
 
 ### GUI Version
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/TuxTechie/Password-Manager.git
-    cd Password-Manager
+    git clone https://github.com/TuxTechie/password-manager.git
+    cd password-manager
     ```
 2. Install Zenity:
     ```sh
@@ -45,11 +45,11 @@ A simple yet powerful Password Generator that creates strong, secure passwords t
     ```
 3. Make the script executable:
     ```sh
-    chmod +x password_generator_gui.sh
+    chmod +x password_manager_gui.sh
     ```
 4. Run the script:
     ```sh
-    ./password_generator_gui.sh
+    ./password_manager_gui.sh
     ```
 
 ## Example Usage
@@ -70,7 +70,7 @@ Generated Large Password: A1b2C3d4E5f6G7h8
 ### GUI Version
 
 1. Choose the type of password to generate from the Zenity dialog.
-2. Enter the required details in the pop-up dialogs:
+2. Enter the required ]details in the pop-up dialogs:
    - Username
    - Site Name
    - Site URL
